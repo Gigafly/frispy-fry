@@ -1,0 +1,8 @@
+{
+	"ip":"gigafry.aternos.me",
+	"port":"46603"
+	"name":"Giga Fry"
+}
+
+
+
